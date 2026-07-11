@@ -10,7 +10,9 @@ Hi, I'm Mrunali Gaikwad, an Electronics and Telecommunication Engineer passionat
 🎓𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧:
 
 B.Tech@ KIT Clg Of Engineering,Kolhapur
+
 Electronics And Telecommunication Engineering
+
 CGPA-8.5/10
 
 ---
@@ -63,9 +65,13 @@ LM8560 | CD4541B Timer IC | Digital Electronics | IC Interfacing | Hardware Desi
 🏆 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 & 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐦𝐞𝐧𝐭𝐬:
 
 1st Runner up: KIT clg level Probject Base Learning Competition(Sem 3)
+
 Volunteer: PIONEER Technical Fest 2025, Smart India Hackathon 2023
+
 Participant: 18hrs Hardware hackathon at DKTE Institute , IOT Hackfest at GPK, Kolhapur
+
 Technical Co-head: AI and Robotics Club of KITCOEK
+
 Technical Team Member: ASSETS Club of ETC Dept.
 
 
